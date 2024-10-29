@@ -17,7 +17,11 @@ TODO: add repo description
 
 [//]: # (addons)
 
-This part will be replaced when running the oca-gen-addons-table script from OCA/maintainer-tools.
+Available addons
+----------------
+addon | version | maintainers | summary
+--- | --- | --- | ---
+[product_harmonized_system_country](product_harmonized_system_country/) | 16.0.1.0.0 |  | Specific HS Code for given countries
 
 [//]: # (end addons)
 
